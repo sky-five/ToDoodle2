@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866919429745",
+    "firebase_url": "https://todoodle2.firebaseio.com",
+    "project_id": "todoodle2",
+    "storage_bucket": "todoodle2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866919429745:android:3d3cc0f12c0d7bbc",
+        "android_client_info": {
+          "package_name": "com.sky.todoodle2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866919429745-ajl3drs8v4p28b27b09jfn3up388m34g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sky.todoodle2",
+            "certificate_hash": "6a7514e7ecb29bdbf67ccef4384d1f80fe83ce87"
+          }
+        },
+        {
+          "client_id": "866919429745-c6m58nadvs16gvth1mu649rs65n3me5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6s5TV8XlEHIz2VKXBca9AvEEf_Sd_0eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866919429745-c6m58nadvs16gvth1mu649rs65n3me5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
